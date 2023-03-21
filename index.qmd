@@ -1,0 +1,139 @@
+---
+title: "Estructura del Data Paper"
+subtitle: "[Estandarización y publicación de datos de biodiversidad marinos en GBIF y en revistas científicas (data papers)</br> Taller GBIF.ES - Nodo GBIF España</br>21-22/03/2023]{.smaller}"
+institute: "SERPAM - Estación Experimental del Zaidin, CSIC"
+format: 
+  revealjs:
+    theme: [default, style.scss]
+author: "[Antonio J. Pérez-Luque]{.yellow}"
+editor:
+  render-on-save: true
+---
+
+## 
+### ¿Qué [estructura]{.yellow} ha de tener un Data Paper?
+
+- Problemática 
+- Estudios 
+
+## 
+### ¿Qué [estructura]{.yellow} ha de tener un Data Paper?
+
+![](assets/templates_field.png){fig-align="center"}
+
+[[Kim (2020)](https://doi.org/10.6087/kcse.185)]{.smaller}
+
+
+## 
+### ¿Qué [estructura]{.yellow} ha de tener un Data Paper?
+:::: {.columns}
+
+::: {.column width="50%" align="center"}
+
+No existe una plantilla o guía estándar para la publicación de DP
+
+  - Depende de la [Revista]{.yellow}
+  - Depende de la [Temática]{.yellow} 
+:::
+
+::: {.column width="40%"}
+
+![](assets/hourglass_model_white.png){fig-align="center"}
+[University of Basel]{.smaller}
+:::
+
+::::
+
+## 
+### dependiente de la [temática]{.yellow}
+![](assets/type_genetica.png){fig-align="center"}
+
+[[Kasmi et al. 2023](https://doi.org/10.1186/s12863-023-01119-4)]{.smaller}
+
+
+## 
+### dependiente de la [temática]{.yellow}
+![](assets/type_essd.png){fig-align="center"}
+
+[[Polo et al. 2019](https://doi.org/10.5194/essd-11-393-2019)]{.smaller}
+
+
+## 
+### dependiente de la [revista]{.yellow}
+![](assets/biodiversity_phytokeys.png){fig-align="center"}
+
+[[Pérez-Luque et al. 2015](https://doi.org/10.3897%2Fphytokeys.46.9116)]{.smaller}
+
+
+## 
+### dependiente de la [revista]{.yellow}
+![](assets/biodiversity_ecosistemas.png){fig-align="center"}
+
+[[Tinaut et al. 2022](https://doi.org/10.7818/ECOS.2356)]{.smaller}
+
+
+##
+### Componentes Recomendados de un DP 
+
+Una visión a través de los diferentes *journals* 
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[1.]{.yellow} Availability 
+
+[2.]{.yellow}  Competing interest 
+
+[3.]{.yellow}  Coverage 
+
+[4.]{.yellow}  Format 
+
+[5.]{.yellow}  License 
+:::
+
+::: {.column width="50%"}
+[6.]{.yellow}  Microattribution 
+
+[7.]{.yellow}  Project 
+
+[8.]{.yellow}  Provenance 
+
+[9.]{.yellow}  Quality 
+
+[10.]{.yellow}  Reuse 
+:::
+
+::::
+
+
+[[Candela et al. 2015](https://doi.org/10.1002/asi.23358)]{.smaller}
+
+## 
+
+- Hablar de ejemplos de biodiversidad: dp de eventos, de ocurrencias
+- no es una mera copia de los metadatos del repositorio (nivel de completitud). La tragedia de los comunes 
+- Importancia de los métodos
+- Uso de diccionarios controlados 
+- Buena descripción de
+- Buenas visualizaciones 
+
+- Hacer los datos FAIRless 
+- Incluir casos de estudio 
+
+
+## Muchas Gracias
+
+[Antonio J. Pérez-Luque]{.yellow}
+
+- [@ajpelu](https://twitter.com/ajpelu)
+- [antonio.perez@eez.csic.es](mailto: antonio.perez@eez.csic.es)
+
+
+
+[Proyecto LifeWatch ERIC [SUMHAL](https://lifewatcheric-sumhal.csic.es) (SUMHAL, LIFEWATCH-2019-09-CSIC-4, POPE 2014-2020) financiado por el Ministerio de Ciencia e Innovación de España, a través de los Fondos Europeos de Desarrollo Regional (FEDER)]{.smaller}
+
+
+
+![](assets/logos.png){fig-align="center"}
+

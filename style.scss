@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+
+//colors 
+$theme-darkblue: #003660;
+$theme-blue: #235188;
+$theme-bluelink: #99D9DD;
+$theme-white: #F7F8F9;
+$theme-yellow: #F4BA02;
+$off-white: #F7F7F7; 
+$baby-blue: #d2e3f3;
+
+$body-bg: $theme-darkblue;
+$body-color: $theme-white;
+$link-color: $theme-bluelink;
+$presentation-heading-color: lighten($theme-blue, 30%);
+
+/*-- scss:rules --*/
+.blue {
+  color: $theme-blue;
+  font-weight: bold;
+}
+
+.yellow {
+  color: $theme-yellow;
+  font-weight: bold;
+}
+
+.smaller {
+  font-size: 50%;
+}
+
